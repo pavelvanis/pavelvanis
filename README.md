@@ -9,7 +9,7 @@ I'm Pavel Vaniš, a curious student passionate about technology and innovation, 
 - React + Next.js
 
 
-## Coding statistics
+## 📊 Coding statistics
 <!--START_SECTION:waka-->
 
 ```txt
