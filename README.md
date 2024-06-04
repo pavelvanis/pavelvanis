@@ -13,7 +13,7 @@ I'm Pavel Vaniš, a curious student passionate about technology and innovation, 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 May 2024 - To: 01 June 2024
+From: 26 May 2024 - To: 02 June 2024
 
 Total Time: 6 hrs 23 mins
 
