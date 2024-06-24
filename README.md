@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Pavel Vaniš, a curious student passionate about technology and innovation, currently enrolled at [Střední průmyslová škola elektrotechnická ječná](https://www.spsejecna.cz/).
+I'm Pavel Vaniš, a curious student who is interested in technology and innovation and has recently graduated from the  [Střední průmyslová škola elektrotechnická ječná](https://www.spsejecna.cz/).
 
 - 🌱 I’m currently learning web applications created by React with Next.js
 
