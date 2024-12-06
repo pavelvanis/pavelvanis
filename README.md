@@ -26,14 +26,14 @@ I'm Pavel Vaniš, a curious student who is interested in technology and innovati
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 November 2024 - To: 03 December 2024
+From: 27 November 2024 - To: 04 December 2024
 
-Total Time: 15 hrs 25 mins
+Total Time: 15 hrs 11 mins
 
-TypeScript   9 hrs 16 mins   >>>>>>>>>>>>>>>----------   60.05 %
-C            6 hrs 3 mins    >>>>>>>>>>---------------   39.29 %
-CSS          5 mins          -------------------------   00.61 %
-Other        0 secs          -------------------------   00.03 %
+TypeScript   9 hrs 4 mins    >>>>>>>>>>>>>>>----------   59.79 %
+C            6 hrs 3 mins    >>>>>>>>>>---------------   39.91 %
+CSS          2 mins          -------------------------   00.23 %
+Other        0 secs          -------------------------   00.05 %
 JSON         0 secs          -------------------------   00.02 %
 ```
 
