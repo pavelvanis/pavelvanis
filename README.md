@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Pavel Vaniš, a curious student who is interested in technology and innovation and has recently graduated from the  [Střední průmyslová škola elektrotechnická ječná](https://www.spsejecna.cz/).
+I'm Pavel Vaniš, a curious student who is interested in technology and innovation. Currently studying at [CTU FEE](https://fel.cvut.cz/en).
 
 ## 🧠 Techstack
 ![Static Badge](https://img.shields.io/badge/-TypeScript-2f2163?style=flat&logo=typescript)
