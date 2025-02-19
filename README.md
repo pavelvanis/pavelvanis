@@ -6,9 +6,10 @@ I'm Pavel Vaniš, a curious student who is interested in technology and innovati
 ![Static Badge](https://img.shields.io/badge/-JavaScript-2f2163?style=flat&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/-Python-2f2163?style=flat&logo=python)
 ![Static Badge](https://img.shields.io/badge/-C_Sharp-2f2163?style=flat&logo=c#)
+![Static Badge](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+
 ![Static Badge](https://img.shields.io/badge/-MySQL-2f2163?style=flat&logo=mysql)
 ![Static Badge](https://img.shields.io/badge/-MongoDB-2f2163?style=flat&logo=mongodb)
-
 ![Static Badge](https://img.shields.io/badge/-React.js-2f2163?style=flat&logo=react)
 ![Static Badge](https://img.shields.io/badge/-Next.js-2f2163?style=flat&logo=nextdotjs)
 
