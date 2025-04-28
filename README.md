@@ -27,15 +27,15 @@ I'm Pavel Vaniš, a curious student who is interested in technology and innovati
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 April 2025 - To: 25 April 2025
+From: 19 April 2025 - To: 26 April 2025
 
-Total Time: 3 hrs 56 mins
+Total Time: 4 hrs 3 mins
 
-CSS          1 hr 14 mins    >>>>>>>>-----------------   31.47 %
-TypeScript   1 hr 4 mins     >>>>>>>------------------   27.10 %
-JavaScript   1 hr 3 mins     >>>>>>>------------------   26.92 %
-VHDL         12 mins         >------------------------   05.33 %
-JSON         7 mins          >------------------------   03.07 %
+CSS          1 hr 30 mins    >>>>>>>>>----------------   37.00 %
+TypeScript   1 hr 8 mins     >>>>>>>------------------   27.93 %
+JavaScript   1 hr 3 mins     >>>>>>>------------------   26.14 %
+JSON         7 mins          >------------------------   02.98 %
+Markdown     7 mins          >------------------------   02.88 %
 ```
 
 <!--END_SECTION:waka-->
