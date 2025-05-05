@@ -27,15 +27,15 @@ I'm Pavel Vaniš, a curious student who is interested in technology and innovati
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 April 2025 - To: 02 May 2025
+From: 26 April 2025 - To: 03 May 2025
 
-Total Time: 5 hrs 35 mins
+Total Time: 5 hrs 16 mins
 
-TeX                                3 hrs 50 mins   >>>>>>>>>>>>>>>>>--------   68.82 %
-CSV                                38 mins         >>>----------------------   11.61 %
-CSS                                14 mins         >------------------------   04.37 %
-Glyph Bitmap Distribution Format   13 mins         >------------------------   04.16 %
-VHDL                               13 mins         >------------------------   03.91 %
+TeX                                3 hrs 50 mins   >>>>>>>>>>>>>>>>>>-------   72.85 %
+CSV                                38 mins         >>>----------------------   12.29 %
+Glyph Bitmap Distribution Format   13 mins         >------------------------   04.40 %
+VHDL                               13 mins         >------------------------   04.14 %
+C                                  10 mins         >------------------------   03.23 %
 ```
 
 <!--END_SECTION:waka-->
