@@ -27,15 +27,15 @@ I'm Pavel Vaniš, a curious student who is interested in technology and innovati
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2025 - To: 07 November 2025
+From: 01 November 2025 - To: 08 November 2025
 
-Total Time: 22 hrs 14 mins
+Total Time: 22 hrs 52 mins
 
-Python       10 hrs 6 mins   >>>>>>>>>>>--------------   45.45 %
-TypeScript   7 hrs 10 mins   >>>>>>>>-----------------   32.24 %
-Docker       1 hr 51 mins    >>-----------------------   08.37 %
-YAML         1 hr 13 mins    >------------------------   05.49 %
-JSON         39 mins         >------------------------   02.99 %
+Python       10 hrs 13 mins  >>>>>>>>>>>--------------   44.67 %
+TypeScript   7 hrs 10 mins   >>>>>>>>-----------------   31.33 %
+Docker       1 hr 52 mins    >>-----------------------   08.17 %
+YAML         1 hr 17 mins    >------------------------   05.67 %
+JSON         39 mins         >------------------------   02.91 %
 ```
 
 <!--END_SECTION:waka-->
