@@ -27,11 +27,11 @@ I'm Pavel Vaniš, a curious student who is interested in technology and innovati
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 January 2026 - To: 27 January 2026
+From: 21 January 2026 - To: 28 January 2026
 
-Total Time: 1 hr 16 mins
+Total Time: 1 hr 40 mins
 
-TeX     1 hr 16 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   99.98 %
+TeX     1 hr 40 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   99.98 %
 Other   0 secs          -------------------------   00.02 %
 ```
 
