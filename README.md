@@ -27,15 +27,15 @@ I'm Pavel Vaniš, a curious student who is interested in technology and innovati
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 April 2026 - To: 21 April 2026
+From: 15 April 2026 - To: 22 April 2026
 
-Total Time: 57 mins
+Total Time: 2 hrs 16 mins
 
-Rust         32 mins               >>>>>>>>>>>>>>-----------   55.27 %
-JSON         8 mins                >>>>---------------------   14.41 %
-Python       7 mins                >>>----------------------   12.18 %
-INI          3 mins                >------------------------   05.75 %
-TOML         3 mins                >------------------------   05.60 %
+C++          37 mins               >>>>>>>------------------   27.40 %
+Rust         32 mins               >>>>>>-------------------   23.52 %
+INI          30 mins               >>>>>>-------------------   22.34 %
+JSON         15 mins               >>>----------------------   11.41 %
+JavaScript   8 mins                >>-----------------------   06.03 %
 ```
 
 <!--END_SECTION:waka-->
