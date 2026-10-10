@@ -27,15 +27,15 @@ I'm Pavel Vaniš, a curious student who is interested in technology and innovati
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2026 - To: 08 October 2026
+From: 02 October 2026 - To: 09 October 2026
 
-Total Time: 6 hrs 16 mins
+Total Time: 5 hrs 24 mins
 
-Bash       4 hrs 21 mins         >>>>>>>>>>>>>>>>>--------   69.47 %
-C          51 mins               >>>----------------------   13.68 %
-Other      24 mins               >>-----------------------   06.47 %
-Text       15 mins               >------------------------   04.15 %
-Python     9 mins                >------------------------   02.41 %
+Bash       4 hrs 21 mins         >>>>>>>>>>>>>>>>>>>>-----   80.57 %
+Other      25 mins               >>-----------------------   07.78 %
+Text       15 mins               >------------------------   04.81 %
+Python     9 mins                >------------------------   02.79 %
+Markdown   8 mins                >------------------------   02.71 %
 ```
 
 <!--END_SECTION:waka-->
